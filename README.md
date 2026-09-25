@@ -33,8 +33,8 @@ User question -> question embedding -> cosine similarity -> top-k passages
 Requires Python 3.10+ and an OpenAI API key. API usage may incur charges.
 
 ```bash
-git clone https://github.com/usmaniqbalmalik1-creator/tech-solution.git
-cd tech-solution/ai-customer-support-rag
+git clone https://github.com/usmaniqbalmalik1-creator/ai-customer-support-rag
+cd ai-customer-support-rag
 python -m venv .venv
 # Windows: .venv\\Scripts\\activate
 # macOS/Linux: source .venv/bin/activate
